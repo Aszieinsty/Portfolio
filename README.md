@@ -15,7 +15,7 @@ My portfolio website is a simple yet effective representation of my professional
 
 ## Getting Started
 
-To view the portfolio website locally, follow these steps:
+To view the portfolio website locally on https://aszieinsty.github.io/Portfolio/, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
 2. Open the `index.html` file in your preferred browser.
